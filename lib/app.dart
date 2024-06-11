@@ -1,4 +1,4 @@
-import 'package:flashman/pages/home_page.dart';
+import 'package:lightapp/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -17,7 +17,7 @@ class App extends StatelessWidget {
         useMaterial3: true,
         textTheme: GoogleFonts.acmeTextTheme(),
       ),
-      home: HomePage(
+      home: const HomePage(
         title: 'LightApp',
       ),
     );

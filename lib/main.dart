@@ -1,4 +1,4 @@
-import 'package:flashman/app.dart';
+import 'package:lightapp/app.dart';
 import 'package:flutter/material.dart';
 
 void main() {

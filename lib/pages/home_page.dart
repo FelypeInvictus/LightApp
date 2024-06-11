@@ -1,4 +1,4 @@
-import 'package:flashman/widgets/text_custom.dart';
+import 'package:lightapp/widgets/text_custom.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
